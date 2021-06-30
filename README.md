@@ -14,6 +14,8 @@ Una base de datos relacional y una no relacional
  
 El diagrama debe hacer un mejor uso de las soluciones distribuidas.
 
+* [Solución](https://github.com/0Emma0/devops-challenge/tree/main/Prueba%201%20-%20Diagrama%20de%20Red#prueba-1---diagrama-de-red).
+
 #### Prueba 2 - Despliegue de una aplicación Django y React.js
 
 Elaborar el deployment dockerizado de una aplicación en django (backend) con frontend en React.js contenida en el repositorio. Es necesario desplegar todos los servicios en un solo docker-compose.
