@@ -1,5 +1,8 @@
 <img src="https://i.ibb.co/VM5MzBT/craftech-logo3.png=150x" width="250" height="250">
 
+| **Soluciones** | [Prueba 1](https://github.com/0Emma0/devops-challenge/tree/main/Prueba%201%20-%20Diagrama%20de%20Red#prueba-1---diagrama-de-red) | [Prueba 2]()  | [Prueba 3]() |
+| ---- | ---- | ---- | ---- |
+
 #### Prueba 1 - Diagrama de Red
 
 Produzca un diagrama de red (puede utilizar lucidchart) de una aplicación web en GCP o AWS y escriba una descripción de texto de 1/2 a 1 página de sus elecciones y arquitectura.
@@ -13,6 +16,8 @@ La aplicación consume 2 microservicios externos
 Una base de datos relacional y una no relacional
  
 El diagrama debe hacer un mejor uso de las soluciones distribuidas.
+
+* [Solución](https://github.com/0Emma0/devops-challenge/tree/main/Prueba%201%20-%20Diagrama%20de%20Red#prueba-1---diagrama-de-red).
 
 #### Prueba 2 - Despliegue de una aplicación Django y React.js
 
