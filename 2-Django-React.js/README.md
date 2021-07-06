@@ -15,7 +15,7 @@ Requisitos
 
 ###### Desde la linea de comandos nos posicionamos donde hemos descargado el repo. Por ejemplo:
 ```
-cd C:\GitHub\devops-challenge
+cd C:\GitHub\devops-challenge\2-Django-React.js
 ```
 
 ###### Ejecutar el siguiente comando:
