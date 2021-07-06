@@ -67,7 +67,7 @@ docker run --rm \
 
 Con el docker run aún ejecutándose, abrir la [página de instancias de Cloud Console](https://console.cloud.google.com/compute/instances?_ga=2.159796280.44682729.1625544919-1638129369.1625370557) . Clic en el enlace a la dirección IP externa de su instancia y seleccione el puerto :8000.
 
-Con la ventana SSH abierta, presione Control-C en su teclado para detener la aplicación de muestra.
+Con la ventana SSH abierta, presione Control-C en su teclado para detener la aplicación.
 
 #### Para el desarrollo de esta prueba se tomo de base la documentación oficial.
 
