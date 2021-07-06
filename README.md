@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/VM5MzBT/craftech-logo3.png=150x" width="250" height="250">
 
-| **Soluciones** | [Diagrama de Red](https://github.com/0Emma0/devops-challenge/tree/main/1%20-%20Diagrama%20de%20Red) | [Django y React.js](https://github.com/0Emma0/devops-challenge/tree/main/2%20-%20Django%20y%20React.js)  | [CI/CD](https://github.com/0Emma0/devops-challenge/tree/main/3%20-%20CICD) |
+| **Soluciones** | [Diagrama de Red](https://github.com/0Emma0/devops-challenge/tree/main/1-Diagrama-de-Red) | [Django y React.js](https://github.com/0Emma0/devops-challenge/tree/main/2-Django-React.js)  | [CI/CD](https://github.com/0Emma0/devops-challenge/tree/main/3-CICD) |
 | ---- | ---- | ---- | ---- |
 
 #### Prueba 1 - Diagrama de Red
@@ -17,7 +17,7 @@ Una base de datos relacional y una no relacional
  
 El diagrama debe hacer un mejor uso de las soluciones distribuidas.
 
-* [Solución](https://github.com/0Emma0/devops-challenge/tree/main/Prueba%201%20-%20Diagrama%20de%20Red#prueba-1---diagrama-de-red).
+* [Solución](https://github.com/0Emma0/devops-challenge/tree/main/1-Diagrama-de-Red).
 
 #### Prueba 2 - Despliegue de una aplicación Django y React.js
 
@@ -25,7 +25,7 @@ Elaborar el deployment dockerizado de una aplicación en django (backend) con fr
 
 Se deben entregar los Dockerfiles pertinentes para elaborar el despliegue y justificar la forma en la que elabora el deployment (supervisor, scripts, docker-compose, kubernetes, etc)
 
-* [Solución](https://github.com/0Emma0/devops-challenge/tree/main/2%20-%20Django%20y%20React.js).
+* [Solución](https://github.com/0Emma0/devops-challenge/tree/main/2-Django-React.js).
 
 Subir todo lo elaborado a un repositorio (github, gitlab, bitbucket, etc). En el repositorio se debe incluir el código de la aplicación  y un archivo README.md con instrucciones detalladas para compilar y desplegar la aplicación, tanto en una PC local como en la nube (AWS o GCP).
 
@@ -35,8 +35,6 @@ Dockerizar un nginx con el index.html default.
 Elaborar un pipeline que ante cada cambio realizado sobre el index.html buildee la nueva imagen y la actualize en la plataforma elegida. (docker-compose, swarm, kuberenetes, etc.)
 Para la creacion del CI/CD se puede utilizar cualquier plataforma (CircleCI, Gitlab, Github, Bitbucket.)
 
-* [Solución](https://github.com/0Emma0/devops-challenge/tree/main/3%20-%20CICD).
-
 **Requisitos y deseables:**
 
 La solución al ejercicio debe mostrarnos que usted puede:
@@ -45,4 +43,4 @@ Automatizar la parte del proceso de despliegue.
 usar conceptos de CI para aprovisionar el software necesario para que los entregables se ejecuten
 use cualquier herramienta de CI de su elección para implementar el entregable
 
-
+* [Solución](https://github.com/0Emma0/devops-challenge/tree/main/3-CICD).
