@@ -3,9 +3,10 @@ services:
     backend:
         build: ./backend
         restart: always
+        environment: 
+          - SECRET_KEY=PfhE*M+H#4H=M^%@
         ports:
           - "8000:8000"
-
     frontend:
         build: ./frontend
         ports:
