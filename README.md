@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/VM5MzBT/craftech-logo3.png=150x" width="250" height="250">
 
-| **Soluciones** | [Diagrama de Red](https://github.com/0Emma0/devops-challenge/tree/main/1%20-%20Diagrama%20de%20Red) | [Django y React.js](https://github.com/0Emma0/devops-challenge/tree/main/2%20-%20Django%20y%20React.js)  | [CI/CD](https://github.com/0Emma0/devops-challenge/tree/main/3%20-%20CICD) |
+| **Soluciones** | [Diagrama de Red](https://github.com/0Emma0/devops-challenge/tree/main/1-Diagrama-de-Red) | [Django y React.js](https://github.com/0Emma0/devops-challenge/tree/main/2-Django-React.js)  | [CI/CD](https://github.com/0Emma0/devops-challenge/tree/main/3-CICD) |
 | ---- | ---- | ---- | ---- |
 
 #### Prueba 1 - Diagrama de Red
