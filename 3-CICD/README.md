@@ -6,7 +6,8 @@ Elaborar un pipeline que ante cada cambio realizado sobre el index.html buildee 
 #### Solución:
 
 * Se elaboro el Dockerfile correspondiente para el container con nginx.
-* Al realizar cambios en el html y luego un push a GitHub, se dispara el workflow que realiza el build del container hosteado en Azure.
+* Al realizar cambios en el archivo index.html alojado en /3-CICD/src/ y luego un push a las master branch, se dispara el workflow que realiza el build del container hosteado en Azure.
+* Para la solución se utilizo GitHub Actions y Azure App Service.
 * Link del site: https://nginx-web.azurewebsites.net/ 
 
 #### Demo:
