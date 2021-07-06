@@ -65,7 +65,7 @@ docker run --rm \
     docker/compose:1.24.0 up
 ```
 
-Con el docker runcomando aún ejecutándose, abre la [página de instancias de Cloud Console](https://console.cloud.google.com/compute/instances?_ga=2.159796280.44682729.1625544919-1638129369.1625370557) . Haga clic en el enlace a la dirección IP externa de su instancia y seleccione el puerto :8000.
+Con el docker run aún ejecutándose, abrir la [página de instancias de Cloud Console](https://console.cloud.google.com/compute/instances?_ga=2.159796280.44682729.1625544919-1638129369.1625370557) . Clic en el enlace a la dirección IP externa de su instancia y seleccione el puerto :8000.
 
 Con la ventana SSH abierta, presione Control-C en su teclado para detener la aplicación de muestra.
 
