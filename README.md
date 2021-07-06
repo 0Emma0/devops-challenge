@@ -25,9 +25,9 @@ Elaborar el deployment dockerizado de una aplicación en django (backend) con fr
 
 Se deben entregar los Dockerfiles pertinentes para elaborar el despliegue y justificar la forma en la que elabora el deployment (supervisor, scripts, docker-compose, kubernetes, etc)
 
-* [Solución](https://github.com/0Emma0/devops-challenge/tree/main/2-Django-React.js).
-
 Subir todo lo elaborado a un repositorio (github, gitlab, bitbucket, etc). En el repositorio se debe incluir el código de la aplicación  y un archivo README.md con instrucciones detalladas para compilar y desplegar la aplicación, tanto en una PC local como en la nube (AWS o GCP).
+
+* [Solución](https://github.com/0Emma0/devops-challenge/tree/main/2-Django-React.js).
 
 #### Prueba 3 - CI/CD
 
