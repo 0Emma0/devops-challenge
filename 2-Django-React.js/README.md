@@ -14,7 +14,6 @@ Elaborar el deployment dockerizado de una aplicación en django (backend) con fr
 
 * [Docker - Build your Node image](https://docs.docker.com/language/nodejs/build-images/).
 * [Compose and Django](https://docs.docker.com/samples/django/).
-* [NGINX Official Image](https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/).
 * [Docker-Compose for Django and React](https://saasitive.com/tutorial/docker-compose-django-react-nginx-let-s-encrypt).
 * [npn](https://nodejs.org/en/knowledge/getting-started/npm/what-is-npm/).
 
