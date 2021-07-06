@@ -2,17 +2,21 @@
 
 Dockerizar un nginx con el index.html default.
 Elaborar un pipeline que ante cada cambio realizado sobre el index.html buildee la nueva imagen y la actualize en la plataforma elegida.
-**Solución:**
 
-<img src="">
+#### Solución:
 
-#### Descripción
+* Se elaboro el Dockerfile correspondiente para el container con nginx.
+* Al realizar cambios en el html y luego un push a GitHub, se dispara el workflow que realiza el build del container hosteado en Azure.
+* Link del site: https://nginx-web.azurewebsites.net/ 
 
+#### Demo:
 
+<img src="https://i.ibb.co/CwvhgP0/Untitled.png">
 
 #### Para el desarrollo de esta prueba se tomo de base la documentación oficial y experiencias adquiridas.
 
 * [NGINX Official Image](https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/).
+* [Azure - GitHub Actions]( https://docs.microsoft.com/en-us/azure/app-service/deploy-container-github-action?tabs=publish-profile/).
 
 
 
