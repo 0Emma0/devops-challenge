@@ -4,13 +4,13 @@ Elaborar el deployment dockerizado de una aplicación en django (backend) con fr
 
 **Solución:**
 
-<img src="">
+* Se elaboraro el docker-compose.yml ubicado en el directorio raíz, en base a los Dockerfiles que se encuentran en /backend y /frontend respectivamente. 
 
-#### Descripción
+#### Demo
 
+<img src="https://i.ibb.co/kxcXzRk/sd.png">
 
-
-#### Para el desarrollo de esta prueba se tomo de base la documentación oficial y experiencias adquiridas.
+#### Para el desarrollo de esta prueba se tomo de base la documentación oficial.
 
 * [Docker - Build your Node image](https://docs.docker.com/language/nodejs/build-images/).
 * [Compose and Django](https://docs.docker.com/samples/django/).
