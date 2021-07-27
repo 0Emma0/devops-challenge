@@ -15,7 +15,7 @@ Requisitos
 
 ###### Desde la linea de comandos nos posicionamos donde hemos descargado el repo. Por ejemplo:
 ```
-cd C:\GitHub\devops-challenge
+cd C:\GitHub\devops-challenge\2-Django-React.js
 ```
 
 ###### Ejecutar el siguiente comando:
@@ -53,9 +53,9 @@ docker run docker/compose:1.24.0 version
 
 ###### Ejecutar el comando Docker Compose.
 
-Para que el contenedor de Docker Compose tenga acceso al demonio de Docker, monte el socket de Docker con la -v /var/run/docker.sock:/var/run/docker.sock opción.
+Para que el contenedor de Docker Compose tenga acceso al demonio de Docker, monte el socket de Docker con la opción -v /var/run/docker.sock:/var/run/docker.sock.
 
-Para que el directorio actual esté disponible para el contenedor, use la -v "$PWD:$PWD" opción para montarlo como un volumen y -w="$PWD"para cambiar el directorio de trabajo.:
+Para que el directorio actual esté disponible para el contenedor, use la opción -v "$PWD:$PWD" para montarlo como un volumen y -w="$PWD"para cambiar el directorio de trabajo.:
 
 ```
 docker run --rm \
@@ -65,9 +65,9 @@ docker run --rm \
     docker/compose:1.24.0 up
 ```
 
-Con el docker runcomando aún ejecutándose, abre la [página de instancias de Cloud Console](https://console.cloud.google.com/compute/instances?_ga=2.159796280.44682729.1625544919-1638129369.1625370557) . Haga clic en el enlace a la dirección IP externa de su instancia y seleccione el puerto :8000.
+Con el docker run aún ejecutándose, abrir la [página de instancias de Cloud Console](https://console.cloud.google.com/compute/instances?_ga=2.159796280.44682729.1625544919-1638129369.1625370557). Clic en el enlace a la dirección IP externa de su instancia y seleccione el puerto :8000.
 
-Con la ventana SSH abierta, presione Control-C en su teclado para detener la aplicación de muestra.
+Con la ventana SSH abierta, presione Control-C en su teclado para detener la aplicación.
 
 #### Para el desarrollo de esta prueba se tomo de base la documentación oficial.
 
